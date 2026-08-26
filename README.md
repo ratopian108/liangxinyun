@@ -1,53 +1,67 @@
 # 良心云官网入口推荐（2026）
 
-**先认官网：** [liangxiny.com](https://liangxiny.com/)
+**先认官网，再决定要不要付款：** [liangxiny.com](https://liangxiny.com/)
 
-搜「良心云」「良心云官网」「liangxinyun」进来时，优先核对上面这个域名。注册、套餐、客户端下载都只在官网完成——本仓库是 **推荐入口说明**，不是官网本体，也不代收款。
+搜「良心云」「良心云官网」「liangxinyun」进来时，优先核对该域名。注册、选套餐、下载客户端、工单都只在官网完成。
+
+本仓库是 **推荐入口说明**（方便收藏、方便搜索对照），**不是官网本体，也不代收款**。价格、库存、活动截止日以官网当日页面为准。
 
 > 良心云 · 良心云机场 · 机场推荐 · liangxiny.com  
-> 最后核对：2026-08-23 · 图文说明：[https://pending-lxy.airport-seo/](https://pending-lxy.airport-seo/)
+> 图文教程（可抓取）：[https://xn--9kqz23b19z.top/](https://xn--9kqz23b19z.top/) · 本页核对：2026-08-26
 
 ---
 
-## 为什么值得收藏这篇
+## 这篇解决什么问题
 
-同类短链太多，真正省事的路径通常就三步：
+同类短链、镜像站、过期价目太多。真正省事的路径通常就三步：
 
-1. 打开 **[liangxiny.com](https://liangxiny.com/)** 注册  
-2. 选套餐（流量 / 周期 / 设备数以页面实时为准）  
-3. 用户中心下载**官方标注**客户端 → 导入订阅 → 连接  
+1. 打开 **[liangxiny.com](https://liangxiny.com/)** 用邮箱注册  
+2. 按自己的流量 / 周期 / 设备数选套餐（看卡片，不看第三方截图）  
+3. 用户中心下载**官方标注**的客户端 → 导入订阅 → 连接  
 
-完整图文：[良心云 使用指南](https://pending-lxy.airport-seo/guide/)
+完整图文：[良心云 使用指南](https://xn--9kqz23b19z.top/guide/)
+
+## 为什么值得收藏
+
+- 搜「良心云」先核 liangxiny.com，避免假站短链
+- 良心云.top 放可抓取教程 / FAQ / 排障，方便对照后再下单
+- 套餐、库存、优惠只认官网当日卡片，本页不写死金额
+- 客户端只从官网用户中心下载官方标注安装包
+
 
 ## 官网认准表
 
 | 项目 | 请认准 |
 |------|--------|
 | 品牌 | **良心云** |
-| 下单 / 用户中心 | https://liangxiny.com/ |
-| 教程 / FAQ（可抓取） | https://pending-lxy.airport-seo/ |
-| 套餐怎么对照 | [plans](https://pending-lxy.airport-seo/plans/) |
+| 下单 / 用户中心 / 工单 | https://liangxiny.com/ |
+| 教程 / FAQ / 排障文章 | https://xn--9kqz23b19z.top/ |
+| 套餐口径对照（不下单） | [plans](https://xn--9kqz23b19z.top/plans/) |
 
-域名对不上就先停。不要只凭中文名点进未知短链。
+域名差一个字母就先停。不要只凭中文名点进未知短链，也不要用网盘里的「破解客户端」。
 
 ## 适合谁
 
-需要相对稳定的跨境访问、看流媒体或在线工具的个人用户；想先搞清「官网在哪、怎么装」再决定是否下单的人。
+- 需要相对稳定的跨境访问：网页、邮箱、常见在线工具  
+- 想看流媒体或远程协作，但希望先搞清「官网在哪、怎么装」再下单  
+- 多设备用户：先对照官网写明的同时在线数量  
 
-线路与晚高峰以官网节点列表为准，这里不维护会过期的节点表。
+线路质量、晚高峰和节点名单会变，以用户中心里当时能连上的列表为准。这里**不维护**会过期的节点表或价目表。
 
 ## 安装顺序
 
 1. 在 [liangxiny.com](https://liangxiny.com/) 注册并完成套餐（或确认仍在可用期内）  
 2. 用户中心按系统下载官方安装包  
 3. 导入订阅 / 登录后更新节点，再开启代理  
-4. 细节 → [教程](https://pending-lxy.airport-seo/guide/)
+4. 细节 → [教程](https://xn--9kqz23b19z.top/guide/)
 
 macOS 注意芯片架构（Apple Silicon / Intel），别下错包。
 
 ## 套餐怎么对照
 
-看官网卡片上的 **月重置流量、周期折扣、设备数**。第三方 README 上的价目经常过期或张冠李戴。对照：[套餐说明](https://pending-lxy.airport-seo/plans/)
+看官网卡片上的 **月重置流量、周期折扣、设备数**。第三方 README 上的价目经常过期或张冠李戴——包括本页也不会写死金额。对照说明：[套餐怎么选](https://xn--9kqz23b19z.top/plans/)
+
+优惠码只认官网活动栏当时展示的内容。
 
 ## 常见问题
 
@@ -61,11 +75,22 @@ macOS 注意芯片架构（Apple Silicon / Intel），别下错包。
 只从官网用户中心下载标注官方的安装包，不要用网盘散发包。
 
 **教程在哪？**  
-图文教程与 FAQ：https://pending-lxy.airport-seo/
+图文教程、FAQ 与排障文章：https://xn--9kqz23b19z.top/
 
-## 相关阅读
+**有没有固定优惠码 / 价目表？**  
+没有。第三方 README 上的价目和码经常过期。以官网套餐页、活动栏当日展示为准。
 
-- [2026 机场推荐导航](https://pending-hub.airport-seo/)
+**连不上先看哪？**  
+说明站排障文：https://xn--9kqz23b19z.top/posts/2026-06-01-lian-bu-shang/ ；工单仍走官网用户中心。
+
+## 继续读（说明站原文）
+
+- [良心云官网是哪个？认准 liangxiny.com](https://xn--9kqz23b19z.top/posts/2026-03-02-guanwang/)
+- [使用教程：从注册到多端连接](https://xn--9kqz23b19z.top/guide/)
+- [套餐怎么选：流量、周期、设备数](https://xn--9kqz23b19z.top/plans/)
+- [连不上或很卡：先做这几步](https://xn--9kqz23b19z.top/posts/2026-06-01-lian-bu-shang/)
+- [客户端下载与订阅导入](https://xn--9kqz23b19z.top/posts/2026-08-03-kehuduan/)
+- [全部文章](https://xn--9kqz23b19z.top/posts/)
 
 ---
 
